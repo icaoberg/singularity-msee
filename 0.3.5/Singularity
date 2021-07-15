@@ -2,9 +2,11 @@ Bootstrap: docker
 From: alpine:edge
 
 %labels
-    AUTHOR icaoberg
+    MAINTAINER icaoberg
     EMAIL icaoberg@psc.edu
-    WEBSITE http://www.github.com/icaoberg/singularity-msee
+    SUPPORT help@psc.edu
+    REPOSITORY http://gitub.com/pscedu/singularity-msee
+    COPYRIGHT Copyright © 2021 Pittsburgh Supercomputing Center. All Rights Reserved.
     VERSION 0.3.5
 
 %post
