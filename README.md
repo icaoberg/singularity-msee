@@ -1,8 +1,8 @@
-![Status](https://github.com/pscedu/singularity-msee/actions/workflows/main.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/pscedu/singularity-msee)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-msee)
-![Stars](https://img.shields.io/github/stars/pscedu/singularity-msee)
-![License](https://img.shields.io/github/license/pscedu/singularity-msee)
+![Status](https://github.com/icaoberg/singularity-msee/actions/workflows/main.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/icaoberg/singularity-msee)
+![forks](https://img.shields.io/github/forks/icaoberg/singularity-msee)
+![Stars](https://img.shields.io/github/stars/icaoberg/singularity-msee)
+![License](https://img.shields.io/github/license/icaoberg/singularity-msee)
 
 # singularity-msee
 
