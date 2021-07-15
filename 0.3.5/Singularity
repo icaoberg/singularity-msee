@@ -1,0 +1,12 @@
+Bootstrap: docker
+From: alpine:edge
+
+%labels
+    AUTHOR icaoberg
+    EMAIL icaoberg@psc.edu
+    WEBSITE http://www.github.com/icaoberg/singularity-msee
+    VERSION 0.3.5
+
+%post
+    apk add --update nodejs npm
+    npm install --global msee
