@@ -1,6 +1,6 @@
 ![Status](https://github.com/icaoberg/singularity-msee/actions/workflows/main.yml/badge.svg)
 ![Issue](https://img.shields.io/github/issues/icaoberg/singularity-msee)
-![forks](https://img.shields.io/github/forks/icaoberg/singularity-msee)
+![Forks](https://img.shields.io/github/forks/icaoberg/singularity-msee)
 ![Stars](https://img.shields.io/github/stars/icaoberg/singularity-msee)
 ![License](https://img.shields.io/github/license/icaoberg/singularity-msee)
 
@@ -8,16 +8,6 @@
 
 ![Example](https://cloud.githubusercontent.com/assets/157338/10902801/531ba216-823d-11e5-87ac-986b8d5ea4cc.png)
 Singularity recipe for [msee](https://www.npmjs.com/package/msee).
-
-## Installing the container on Bridges 2
-Copy the
-
-* `SIF` file
-* and the `msee` scripts
-
-to `/opt/packages/msee/0.3.5`.
-
-Copy the file `modulefile.lua` to `/opt/modulefiles/msee` as `0.3.5.lua`.
 
 ## Building the image using the recipe
 ### To build the image locally
